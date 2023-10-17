@@ -6,7 +6,7 @@ Go Developer | _Author of Coping iOS app_
 
 + Linked in <img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif" style="height: 1rem; width: 1rem;"> [linkedin.com/in/ic-n](https://www.linkedin.com/in/ic-n/)
 + Go highlights:
-  + _WIP:_ 🚧 ChatGPT-like self-hosted service with a customisation layer to build anything chat-AI-assisted SaaS <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/caichat](https://github.com/ic-n/caichat)
+  + Fully self-hosted service template to build chat-AI-assisted SaaS <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/caichat](https://github.com/ic-n/caichat)
   + `Promise.all`-like wait group for Go with use of generics <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/wait](https://github.com/ic-n/wait)
   + Research on approaching decoupling heavy monolithic endpoints to a more modular architecture without breaking compatibility with old clients <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/legacy-endpoint](https://github.com/ic-n/legacy-endpoint)
   + Research on flow-control ideas for golang <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/flow-control](https://github.com/ic-n/flow-control)
