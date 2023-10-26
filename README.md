@@ -2,9 +2,12 @@
 
 ### Nikola Kiselev
 
+[![](https://www.codewars.com/users/ic-n/badges/large)](https://www.codewars.com/users/ic-n)
+
 Go Developer | _Author of Coping iOS app_
 
 + Linked in <img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif" style="height: 1rem; width: 1rem;"> [linkedin.com/in/ic-n](https://www.linkedin.com/in/ic-n/)
++ Code wars <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" style="height: 1rem; width: 1rem;"> [codewars.com/users/ic-n](https://www.codewars.com/users/ic-n)
 + Go highlights:
   + Fully self-hosted service template to build chat-AI-assisted SaaS <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/caichat](https://github.com/ic-n/caichat)
   + Preallocated pool, you can preallocate data in memory and ratelimit globaly <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/preallocated-pool](https://github.com/ic-n/preallocated-pool)
