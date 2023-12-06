@@ -7,6 +7,7 @@ Go Developer | _Author of Coping iOS app_
 + Linked in <img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif" style="height: 1rem; width: 1rem;"> [linkedin.com/in/ic-n](https://www.linkedin.com/in/ic-n/)
 + Code wars <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" style="height: 1rem; width: 1rem;"> [codewars.com/users/ic-n](https://www.codewars.com/users/ic-n)
 + Go highlights:
+  + Template repo for ETH smart contract binding with GRPC k8s server on go to expose API for reaching contract + local blockchain / simulated ETH backend tests <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/ethcontractbind](https://github.com/ic-n/ethcontractbind)
   + Fully self-hosted service template to build chat-AI-assisted SaaS <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/caichat](https://github.com/ic-n/caichat)
   + Preallocated pool, you can preallocate data in memory and ratelimit globaly <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/preallocated-pool](https://github.com/ic-n/preallocated-pool)
   + `Promise.all`-like wait group for Go with use of generics <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/wait](https://github.com/ic-n/wait)
