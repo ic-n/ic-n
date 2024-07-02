@@ -6,6 +6,7 @@ Go Developer | _Author of Coping iOS app_
 
 + Code wars <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" style="height: 1rem; width: 1rem;"> [codewars.com/users/ic-n](https://www.codewars.com/users/ic-n)
 + Go highlights:
+  + Telegram's Mini Apps Hackaton winner. Perfectly usable as self sustained backend for miniapp, as a head start for full-stack application. <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/universal-telegram-miniapp-backend](https://github.com/ic-n/universal-telegram-miniapp-backend)
   + Template repo for ETH smart contract binding with GRPC k8s server on go to expose API for reaching contract + local blockchain / simulated ETH backend tests <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/ethcontractbind](https://github.com/ic-n/ethcontractbind)
   + Fully self-hosted service template to build chat-AI-assisted SaaS <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/caichat](https://github.com/ic-n/caichat)
   + Preallocated pool, you can preallocate data in memory and ratelimit globaly <img src="https://emojis.slackmojis.com/emojis/images/1643514859/8712/github.png" style="height: 1rem; width: 1rem;"> [ic-n/preallocated-pool](https://github.com/ic-n/preallocated-pool)
