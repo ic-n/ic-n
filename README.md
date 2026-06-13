@@ -25,7 +25,7 @@ I build the layer between node internals and live products: real-time blockchain
 
 ## Products
 
-- **[Coping](https://apps.apple.com/rs/app/coping/id6450903073)** - iOS app that helps people quit addictions and build healthier habits. [Open-source core](https://github.com/ic-n/coping-open).
+- **[Coping](https://www.producthunt.com/products/coping)** - iOS app that helps people quit addictions and build healthier habits. [Open-source core](https://github.com/ic-n/coping-open).
 - **[Taskwire](https://github.com/ic-n/taskwire)** - cross-platform local & SSH terminal: Flutter UI over a Go core (`mvdan/sh`), bridged via FFI/CGO. [Demo](https://www.linkedin.com/posts/ic-n_taskwire-2-activity-6967183184304197632-CcPs)
 
 ---
