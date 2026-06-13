@@ -27,6 +27,8 @@ I build the layer between node internals and live products: real-time blockchain
 
 - **[Coping](https://www.producthunt.com/products/coping)** - iOS app that helps people quit addictions and build healthier habits. [Open-source core](https://github.com/ic-n/coping-open).
 - **[Taskwire](https://github.com/ic-n/taskwire)** - cross-platform local & SSH terminal: Flutter UI over a Go core (`mvdan/sh`), bridged via FFI/CGO. [Demo](https://www.linkedin.com/posts/ic-n_taskwire-2-activity-6967183184304197632-CcPs)
+- **[FlowSwitch](https://github.com/ic-n/flowswitch-mac)** - keyboard-first macOS window switcher: Fn+1 opens a menu with home-row shortcuts (Colemak `arstneio`), Fn+2 flips instantly to the previous window. Menu bar only, no Dock icon.
+
 
 ---
 
