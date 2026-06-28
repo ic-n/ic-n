@@ -29,6 +29,7 @@ I build the layer between node internals and live products: real-time blockchain
 - **[Taskwire](https://github.com/ic-n/taskwire)** - cross-platform local & SSH terminal: Flutter UI over a Go core (`mvdan/sh`), bridged via FFI/CGO. [Demo](https://www.linkedin.com/posts/ic-n_taskwire-2-activity-6967183184304197632-CcPs)
 - **[FlowSwitch](https://github.com/ic-n/flowswitch-mac)** - keyboard-first macOS window switcher: Fn+1 opens a menu with home-row shortcuts (Colemak `arstneio`), Fn+2 flips instantly to the previous window. Menu bar only, no Dock icon.
 
+**Early work:** [sneact](https://github.com/ic-n/sneact) - one of my first big OSS projects: an experimental Python UI library with a JSX-like DSL built entirely from operator overloading (`<<div>>`, `@when`, `@for_each`).
 
 ---
 
