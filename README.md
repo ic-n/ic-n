@@ -9,6 +9,7 @@ I build the layer between node internals and live products: real-time blockchain
 
 ## On-chain / Solana
 
+- **[robinhood-chaintape](https://github.com/ic-n/robinhood-chaintape)** - real-time tape for tokenized equities on Robinhood Chain (Arbitrum Nitro L2): Kafka → Debezium → Flink SQL → Postgres at ~180 ERC-20 transfers/sec. CDC-backed token registry means a Postgres edit retroactively corrects the running Flink job. TypeScript end to end.
 - **[redio-contract](https://github.com/ic-n/redio-contract)** - Solana escrow program (Rust/Anchor) for instant USDC affiliate payouts: deterministic settlement, SDK, integration tests, Shopify/WooCommerce plugins. Live at [redio.app](https://redio.app). 3rd place, Superteam Buildstation 2025.
 - **[flipgo-sol](https://github.com/ic-n/flipgo-sol)** - open-source Solana programs behind [flipgo.tv](https://flipgo.tv): live streaming with real-time on-chain trading data.
 - **[ye](https://github.com/ic-n/ye)** - Jest mock for `@triton-one/yellowstone-grpc` that emits real serialized on-chain data (SPL token account layouts, Metaplex metadata), so tests exercise the full parse pipeline - not just the app logic after parsing.
