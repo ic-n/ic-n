@@ -17,6 +17,10 @@ I build the layer between node internals and live products: real-time blockchain
 - **[sage](https://github.com/ic-n/sage)** - on-chain IP registry: register intellectual property on Solana, spin up AI agents that govern it, license it to people, and lease it to other agents via x402 payments. [thesage.cc](https://thesage.cc)
 - **[Solrover](https://solrover.xyz)** - fully on-chain multiplayer survival game (solo project): on-chain token economy with resource tokens, AMM/CLMM liquidity, and player-owned yield-generating factories. Satellite repos: [solrover-market](https://github.com/ic-n/solrover-market) - experimental Rust implementation of Toly's percolator for the in-game market · [airpregame](https://github.com/ic-n/airpregame) - three.js balloon-battle raffle with on-chain payout · [mintzilio](https://github.com/ic-n/mintzilio) - NFT minting on the latest Metaplex standard.
 
+## Developer tooling
+
+- **[lirep](https://github.com/ic-n/lirep)** - codebase navigation for humans and AI coding agents: combines hierarchy-aware regex search with an incremental local Tree-sitter symbol graph that ranks declarations, fields, callers, imports and cross-layer relationships from natural-language queries. Ships as a Rust CLI and installable agent skill; supports Rust, Python, Go, JavaScript/TypeScript, HTML and Astro.
+
 ## Go infrastructure
 
 - **[universal-telegram-miniapp-backend](https://github.com/ic-n/universal-telegram-miniapp-backend)** - self-contained Go backend for Telegram Mini Apps; works standalone or as a head start for a full-stack mini app. Telegram Mini Apps Hackathon winner.
